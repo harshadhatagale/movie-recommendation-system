@@ -1,5 +1,3 @@
-Here's a sleek, engaging, and sexy README template you can drop into your movie-recommendation-system repo. It's inspired by top practices—making it visually appealing, clear, and ready for collaboration 🚀
-
 # 🎬 Movie Recommendation System
 
 A powerful **Collaborative Filtering + Content-Based** system built in Python (Jupyter), leveraging the MovieLens 20M dataset to provide personalized movie suggestions and rating predictions.
@@ -126,25 +124,6 @@ pip install -r requirements.txt
 
 ---
 
-🙌 Contribution
-
-Contributions welcome! 🙏 For major changes, please open an issue first.
-Follow PEP-8 & write tests:
-
-flake8 .
-pytest
-
-
----
-
-📞 Author & License
-
-Harsha Dhata Gale — feel free to connect: @harshadhata
-License: MIT © 2025
-
-
----
-
 🧭 How it works
 
 At launch, the notebook:
@@ -172,50 +151,4 @@ Generates top‑N movie recommendations
 📸 Screenshots or animated GIFs of outputs, UI or plots
 
 🎥 Include a mini demo video or GIF in the README to hook users  
-
-
-
----
-
-🔖 Table of Contents
-
-Features
-
-Data
-
-Usage
-
-Results
-
-Insights
-
-Roadmap
-
-Requirements
-
-Contribution
-
-Author & License
-
-
-
----
-
-Updated on: July 2025
-
----
-
-### Why this Markdown rocks:
-
-- It leads with a clean project **title + emoji** to grab attention.
-- **Sections** and a **Table of Contents** make navigation easy 36.
-- Highlights **usage** and **quickstart**, and clearly lists dependencies and how to run it.
-- Demonstrates **results & impact** (RMSE, MAPE, insights).
-- Plans for future work encourage engagement and contributions.
-- Includes **contribution guidelines** and points of contact ✔️.
-- Suggests **visuals and badges**, improving the look & feel 37.
-
----
-
-Feel free to tweak it with actual results, gifs, demo links, etc.—this template is your sexy launchpad 🤩38
 
